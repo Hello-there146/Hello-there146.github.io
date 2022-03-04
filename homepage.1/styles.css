@@ -1,0 +1,40 @@
+.center{
+    text-align: center;
+}
+
+.top{
+    margin-top: 20px;
+}
+
+.paragrah-text{
+    text-align: left;
+    text-indent: 45px;
+}
+
+.c_size{
+    width: 80%;
+    height: 80%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+}
+
+.gr_green{
+    background: linear-gradient(to bottom, #33ccff 0%, #33cc33 100%);
+}
+
+.color_yellow{
+    color: yellow;
+    text-shadow: 2px 2px #000000;
+}
+
+.bg {
+  background-image: url('images/Park.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
